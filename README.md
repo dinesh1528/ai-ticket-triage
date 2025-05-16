@@ -26,8 +26,11 @@ This project uses AI to auto-classify IT support tickets and suggest categories 
 
 ## 🖼️ Demo Screenshots
 
-### 🎯 Dashboard UI
-[![Dashboard](screenshots/react dashboard demo.png)(screenshots/flask console post request.png)]
+### 🎯 Dashboard UI  
+[![Dashboard](screenshots/react%20dashboard%20demo.png)](screenshots/react%20dashboard%20demo.png)
+
+### 🔧 Flask Console Log  
+[![Console](screenshots/flask%20console%20post%20request.png)](screenshots/flask%20console%20post%20request.png)
 
 ---
 
