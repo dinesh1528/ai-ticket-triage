@@ -49,28 +49,8 @@ npm run build
 sudo npx serve -s build -l 80
 
 🌍 Live Access
-Visit: http://18.222.227.61/
+Visit: [http://18.222.227.61](http://18.222.227.61)
 
 👨‍💻 Author
 Dinesh Marthala
 GitHub
-
-yaml
-Copy
-Edit
-
----
-
-### 📌 Save in Nano:
-
-1. **Press** `Ctrl + O` → then `Enter` to save  
-2. **Press** `Ctrl + X` to exit
-
----
-
-### ✅ Then Push the Change:
-
-```bash
-git add README.md
-git commit -m "Final README with clickable screenshots"
-git push
