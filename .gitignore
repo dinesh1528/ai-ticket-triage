@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+server/node_modules/
+client/node_modules/
+
+# Python virtual environment
+venv/
+ai-service/venv/
+
+# Logs
+*.log
+logs/
+server/logs/
+
+# Build files
+build/
+dist/
+
+# Env files
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
