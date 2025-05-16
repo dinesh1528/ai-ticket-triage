@@ -55,22 +55,4 @@ Visit: http://18.222.227.61/
 Dinesh Marthala
 GitHub
 
-yaml
-Copy
-Edit
-
 ---
-
-### 📌 Save in Nano:
-
-1. **Press** `Ctrl + O` → then `Enter` to save  
-2. **Press** `Ctrl + X` to exit
-
----
-
-### ✅ Then Push the Change:
-
-```bash
-git add README.md
-git commit -m "Final README with clickable screenshots"
-git push
