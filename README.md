@@ -27,10 +27,15 @@ This project uses AI to auto-classify IT support tickets and suggest categories 
 ## 🖼️ Demo Screenshots
 
 ### 🎯 Dashboard UI  
+
+## 🖼️ Demo Screenshots
+
+### React Dashboard
 [![Dashboard](screenshots/react%20dashboard%20demo.png)](screenshots/react%20dashboard%20demo.png)
 
-### 🔧 Flask Console Log  
+### Flask Console Output
 [![Console](screenshots/flask%20console%20post%20request.png)](screenshots/flask%20console%20post%20request.png)
+
 
 ---
 
@@ -54,4 +59,5 @@ Visit: [http://18.222.227.61](http://18.222.227.61)
 👨‍💻 Author
 Dinesh Marthala
 GitHub
+
 
