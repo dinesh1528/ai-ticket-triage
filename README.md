@@ -26,18 +26,17 @@ This project uses AI to auto-classify IT support tickets and suggest categories 
 
 ## 🖼️ Demo Screenshots
 
-### 🎯 Dashboard UI  
+### 🎯 React Dashboard
+[![Dashboard](screenshots/dashboard.png)](screenshots/dashboard.png)
 
-## 🖼️ Demo Screenshots
-
-### React Dashboard
-[![Dashboard](screenshots/react%20dashboard%20demo.png)](screenshots/react%20dashboard%20demo.png)
-
-### Flask Console Output
-[![Console](screenshots/flask%20console%20post%20request.png)](screenshots/flask%20console%20post%20request.png)
-
+### 🔧 Flask Console Output
+[![Console](screenshots/flask-console.png)](screenshots/flask-console.png)
 
 ---
+
+### 🔗 Live Access
+
+Visit: [http://18.222.227.61](http://18.222.227.61)
 
 ## 🔧 Setup Instructions
 
@@ -53,8 +52,6 @@ npm install
 npm run build
 sudo npx serve -s build -l 80
 
-🌍 Live Access
-Visit: [http://18.222.227.61](http://18.222.227.61)
 
 👨‍💻 Author
 Dinesh Marthala
