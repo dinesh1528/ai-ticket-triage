@@ -36,7 +36,7 @@ This project uses AI to auto-classify IT support tickets and suggest categories 
 
 ### 🔗 Live Access
 
-Visit: [http://18.222.227.61](http://18.222.227.61)
+Visit: (http://52.15.195.30/)
 
 ## 🔧 Setup Instructions
 
